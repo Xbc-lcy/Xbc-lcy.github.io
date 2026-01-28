@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I will be a PhD student at School of Integrated Circuits (School of Information Science and Electronic Engineering), Shanghai Jiao Tong University, advised by [Prof. Xiaohua Tian](https://xtian.sjtu.edu.cn/) 
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+Prior to this, I am graduating from Shanghai Jiao Tong University with a Bachelor's degree in Information Engineering in 2026.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My current research focuses on Ultra-Low Power Wireless Systems. I'm also very interested in leveraging AI for communication system design and improving communication system performance. 

@@ -1,0 +1,15 @@
+type = "card"
+title = "Sharing"
+
+# Card page for sharing thoughts, projects, or resources
+# Add your sharing items below
+
+[[items]]
+title = "示例分享标题"
+subtitle = "2026-01-28"
+content = "在这里写下你想分享的内容简介。"
+
+# [[items]]
+# title = "另一个分享"
+# subtitle = "2026-01-20"
+# content = "添加更多分享内容。"
