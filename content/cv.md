@@ -1,26 +1,23 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**Shanghai Jiao Tong University**, PhD in Information and Communication Engineering , *2026 - Future*
+- Research focus: Ultra-Low Power Wireless Systems
+- Supervisor: Prof. Xiaohua Tian
+**Shanghai Jiao Tong University**, Communication Engineering, *2022 - 2026*
+**Hengshui No.1 HighSchool**, survivor, *2019 - 2022*
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
 
-## Experience
-
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+- **Simulation:** ADS, MATLAB
+- **PCB Design:** Altium Designer
+- **Testing:** GNU Radio, SDR, Oscilloscope, Spectrum Analyzer, VNA
 
 ## Awards & Honors
-
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **Yanbao Scholarship** (*2025*)
+- **Outstanding League Cadre of Shanghai Jiao Tong University** (*2025*)
+- **SJTU Academic Scholarship (Class B)** (*2025*)
+- **SJTU Academic Scholarship (Class B)** (*2024*)
+- **Xiaomi Scholarship** (*2024*)
+- **Outstanding Student Cadre of Shanghai Jiao Tong University** (*2024*)
