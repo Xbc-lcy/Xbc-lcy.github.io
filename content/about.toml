@@ -15,6 +15,12 @@ type = "markdown"
 source = "bio.md"
 title = "About"
 
+[[sections]]
+id = "recent_works"
+type = "card"
+title = "Recent Works"
+source = "recent.toml"
+
 # [[sections]]
 # id = "featured_publications"
 # type = "publications"

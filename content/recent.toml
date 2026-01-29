@@ -1,0 +1,13 @@
+type = "card"
+title = "Recent Works"
+description = "Latest projects and achievements."
+
+[[items]]
+title = "Recent Project 1"
+subtitle = "2025"
+content = "Description of your recent work."
+
+[[items]]
+title = "Recent Project 2"
+subtitle = "2024"
+content = "Another recent achievement."
