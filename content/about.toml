@@ -23,8 +23,8 @@ title = "About"
 # limit = 5
 
 [[sections]]
-id = "interests"
+id = "hobbies"
 type = "list"
-title = "Interests"
-source = "news.toml"
+title = "Hobbies"
+source = "hobbies.toml"
 

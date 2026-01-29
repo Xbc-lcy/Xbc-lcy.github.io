@@ -1,0 +1,16 @@
+type = "card"
+title = "Projects"
+description = "Research and course projects I have involved in."
+
+[[items]]
+title = "Ultra-Low Power Wake-up Receiver for HUAWEI-Sparklink-SLZ"
+subtitle = "2025.8 - 2025.11"
+content = "Designed a 30uw ultra low power wake-up receiver for HUAWEI-SparkLink-SLZ."
+# link = "https://github.com/..." 
+
+[[items]]
+title = "Ultra-Wideband Specturm Sensing system for China Southern Power Grid Company Limited"
+subtitle = "2025.12 - present"
+content = "Trying to design an ultra-wideband specturm sensing system that monitors the range from 0.2 GHz to 6 GHz for China Southern Power Grid Company Limited."
+
+

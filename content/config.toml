@@ -38,6 +38,12 @@ type = "page"
 target = "about"
 href = "/"
 
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
 # [[navigation]]
 # title = "Publications"
 # type = "page"
