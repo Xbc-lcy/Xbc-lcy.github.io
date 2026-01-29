@@ -1,4 +1,4 @@
-I will be a PhD student at School of Integrated Circuits (School of Information Science and Electronic Engineering), Shanghai Jiao Tong University, advised by [Prof. Xiaohua Tian](https://xtian.sjtu.edu.cn/) 
+I will be a PhD student at School of Information Science and Electronic Engineering, Shanghai Jiao Tong University, advised by [Prof. Xiaohua Tian](https://xtian.sjtu.edu.cn/) 
 
 Prior to this, I am graduating from Shanghai Jiao Tong University with a Bachelor's degree in Information Engineering in 2026.
 

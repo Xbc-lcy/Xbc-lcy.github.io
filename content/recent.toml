@@ -3,11 +3,11 @@ title = "Recent Works"
 description = "Latest projects and achievements."
 
 [[items]]
-title = "Recent Project 1"
+title = "Ultra-Low Power WURX for HUAWEI-SLZ"
 subtitle = "2025"
-content = "Description of your recent work."
+content = "Designed a 30uw ultra low power WURX for HUAWEI-SparkLink-Zeropower."
 
 [[items]]
-title = "Recent Project 2"
-subtitle = "2024"
-content = "Another recent achievement."
+title = "Ultra-Wideband Specturm Sensing system For CSG"
+subtitle = "2026"
+content = "Trying to design an ultra-wideband specturm sensing system that monitors the range from 0.2 GHz to 6 GHz."
